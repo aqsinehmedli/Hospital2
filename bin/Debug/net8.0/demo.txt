@@ -1,0 +1,15 @@
+Doctor
+: 1Doctor
+: Name:Eli
+Surname:Eliyev
+BranchNameBranchName:Pediatriya
+Experience:2
+Ad: Aqsin,
+ E-posta: aqsinhmdli03@gmail.com,
+ Telefon: 0554295405
+
+Doctor
+: Name:Revan
+Surname:Agazade
+BranchNameBranchName:Stamatologiya
+Experience:3
